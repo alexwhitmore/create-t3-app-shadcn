@@ -67,6 +67,11 @@ export default async function Home() {
   );
 }
 
+/**
+ * 
+ * Commented to session validation for the preview app to show was the
+ * <CreatePost /> component looks like.
+ */
 async function CrudShowcase() {
   const session = await getServerAuthSession();
   // if (!session?.user) return null;
@@ -74,7 +79,7 @@ async function CrudShowcase() {
   // const latestPost = await api.post.getLatest();
   const latestPost = {
     id: 1,
-    name: 'name',
+    name: 'Alex Whitmore',
     createdAt: 'now',
     updatedAt: 'now',
     createdById: '1',
