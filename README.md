@@ -1,5 +1,7 @@
 # Create T3 App
 
+<img width="1315" alt="Screenshot 2024-04-20 at 8 21 11 PM" src="https://github.com/alexwhitmore/create-t3-app-shadcn/assets/57722812/006bea4e-6164-4ae6-bf57-b5a57caba6ab">
+
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## What's next? How do I make an app with this?
